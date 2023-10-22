@@ -18,4 +18,5 @@ L3: 42 Prague project using threads.
 *While they are eating, they are not thinking nor sleeping,
 while thinking, they are not eating nor sleeping,
 and, of course, while sleeping, they are not eating nor thinking.*
-source: https://medium.com/@ruinadd/philosophers-42-guide-the-dining-philosophers-problem-893a24bc0fe2
+
+Source: https://medium.com/@ruinadd/philosophers-42-guide-the-dining-philosophers-problem-893a24bc0fe2
